@@ -45,7 +45,7 @@ class _FoodPageState extends State<FoodPage> {
 
   @override
   void dispose() {
-    _scrollController.dispose(); // Don't forget to dispose the controller!
+    _scrollController.dispose();
     super.dispose();
   }
 
