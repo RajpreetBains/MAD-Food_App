@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "405917309973",
+    "project_id": "final-12ec9",
+    "storage_bucket": "final-12ec9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405917309973:android:cff5e2a72d5fb7a58b821c",
+        "android_client_info": {
+          "package_name": "com.example.fooddeliveryapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA74ISfXSJHFumsG4kWX_BQSEeZ5pFCFjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405917309973:android:14a7284eaac964718b821c",
+        "android_client_info": {
+          "package_name": "com.example.hungryz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA74ISfXSJHFumsG4kWX_BQSEeZ5pFCFjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
