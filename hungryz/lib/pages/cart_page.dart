@@ -105,8 +105,7 @@ class CartPage extends StatelessWidget {
                       MaterialPageRoute(
                         builder: (context) => const PaymentPage(),
                       )),
-                  text: "Go to checkout " +
-                      '\$' +
+                  text: "Go to checkout " '\$' +
                       restaurant.getTotalPrice().toStringAsFixed(2),
                 ),
 

@@ -4,7 +4,6 @@ import 'package:hungryz/pages/splash_page.dart';
 import 'package:provider/provider.dart';
 import 'firebase_options.dart';
 import 'models/restaurant.dart';
-import 'services/auth/auth_gate.dart';
 import 'theme/theme_provider.dart';
 
 void main() async {
