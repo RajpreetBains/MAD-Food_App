@@ -68,18 +68,17 @@ class _LoginPageState extends State<LoginPage> {
                 // logo
                 const MyLogo(),
 
-                const SizedBox(height: 50),
-
                 // welcome back, you've been missed!
                 Text(
-                  'Food Delivery App',
+                  'Hungryz',
                   style: TextStyle(
                     color: Theme.of(context).colorScheme.inversePrimary,
-                    fontSize: 16,
+                    fontSize: 32,
+                    fontWeight: FontWeight.bold,
                   ),
                 ),
 
-                const SizedBox(height: 25),
+                const SizedBox(height: 100),
 
                 // email textfield
                 MyTextField(

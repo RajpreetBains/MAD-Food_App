@@ -352,7 +352,7 @@ class Restaurant extends ChangeNotifier {
   final List<CartItem> _cart = [];
 
   // delivery address which user can change
-  String _deliveryAddress = '99 Hollywood Blv';
+  String _deliveryAddress = '33 Gilmer St SE, Atlanta, GA 30303';
 
   /*
 

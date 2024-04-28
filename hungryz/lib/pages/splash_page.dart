@@ -43,7 +43,14 @@ class _SplashState extends State<Splash> with SingleTickerProviderStateMixin {
         )),
         child: const Column(
           mainAxisAlignment: MainAxisAlignment.center,
-          children: [SizedBox(height: 50), MyLogo()],
+          children: [SizedBox(height: 25), MyLogo(), Text(
+            'Hungryz',
+            style: TextStyle(
+              color: Colors.black,
+              fontSize: 38,
+              fontWeight: FontWeight.bold,
+            ),
+          ),],
         ),
       ),
     );
